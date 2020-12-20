@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/leonard04-crypo.github.io\/HROHaus\/map.json"
+                 "value":"\/HROparty\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
