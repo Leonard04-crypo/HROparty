@@ -932,7 +932,7 @@
         {
          "columns":8,
          "firstgid":939,
-         "image":"..\/..\/Tilesets\/boden2.png",
+         "image":"boden2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
